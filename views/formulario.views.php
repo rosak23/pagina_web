@@ -111,14 +111,6 @@
 
 
 
-
-
-
-
-
-
-
-
   <!-- jQuery -->
   <script src="views/assets/plugins/jquery/jquery.min.js"></script>
   <!-- Bootstrap 4 -->
