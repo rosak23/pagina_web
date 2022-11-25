@@ -52,14 +52,11 @@
           <h5><span>Describenos un poco más de las necesidades de tu Empresa</span></h5>
           <textarea name="" id="texDescripcion" cols="110" rows="7"></textarea>
         </div>
-        <div class="form-group col-md-6">
+        <div class="form-group col-md-12">
           <button type="button" class="btn btn-primary" id="btnGuardarFormulario">Enviar Formulario</button>
         </div>
     </form>
   </div>
-
-
-
 
 
   <!-- ========== Start EVENTO DE GUARDAR DATOS DEL FORMULARIO EN LA BD ========== -->
@@ -106,10 +103,6 @@
     });
   </script>
   <!-- ========== End EVENTO DE GUARDAR DATOS DEL FORMULARIO EN LA BD ========== -->
-
-
-
-
 
   <!-- jQuery -->
   <script src="views/assets/plugins/jquery/jquery.min.js"></script>
